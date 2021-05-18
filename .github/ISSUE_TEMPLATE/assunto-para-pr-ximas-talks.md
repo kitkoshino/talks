@@ -2,8 +2,6 @@
 name: Assunto para próximas talks
 about: Sugira uma assunto para as próximas talks
 title: ''
-labels: ''
-assignees: ''
 
 ---
 
